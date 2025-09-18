@@ -22,3 +22,11 @@ Ja, die Macht ist stark in ihr. Aber sie benutzt sie nicht, um X-Wings aus Sümp
 
 Motivation:
 Ihr Ziel ist nicht, das Gleichgewicht der Macht wiederherzustellen. Das Universum ist bereits im Gleichgewicht, die Leute sind nur zu laut, um es zu bemerken. Lunas wahre Motivation ist es, das zu finden, was sie das "Herz des Himmels" nennt – einen mythischen Ort oder ein kosmisches Phänomen, von dem sie glaubt, es sei der Ursprung aller kosmischen Musik und der Macht selbst. Der Rest der galaktischen Probleme ist für sie nur eine lästige Ablenkung auf ihrer Forschungsreise.
+
+
+
+# Links zu weiteren infos:
+
+[Lunas Eigenschaften](./eigenschaften.txt)
+[Ihre Biografie](./biografie.md)
+[Ihre Abenteuer](./abenteuer.md)
