@@ -14,11 +14,11 @@ Ihre Vorstellung von einem aufregenden Abend ist es nicht, Kesselflieger in Reko
 Fähigkeiten und Mächte:
 Ja, die Macht ist stark in ihr. Aber sie benutzt sie nicht, um X-Wings aus Sümpfen zu ziehen. Das wäre ja viel zu plump.
 
-    Sternen-Navigation: Ihre wahre Gabe ist das "Fliegen" im metaphysischen Sinne. Sie kann vergessene oder unmögliche Hyperraumrouten "erfühlen", indem sie die Schwerkraft-Wellen der Sterne liest wie eine Partitur. Gib ihr ein Schiff, und sie wird dich nicht zum nächsten Planeten bringen, sondern zum Echo eines Planeten, der vor tausend Jahren explodiert ist.
+Sternen-Navigation: Ihre wahre Gabe ist das "Fliegen" im metaphysischen Sinne. Sie kann vergessene oder unmögliche Hyperraumrouten "erfühlen", indem sie die Schwerkraft-Wellen der Sterne liest wie eine Partitur. Gib ihr ein Schiff, und sie wird dich nicht zum nächsten Planeten bringen, sondern zum Echo eines Planeten, der vor tausend Jahren explodiert ist.
 
-    Kosmische Psychometrie: Sie kann Artefakte berühren und nicht nur deren Vergangenheit sehen, sondern auch die astronomischen Ereignisse, die das Objekt "gesehen" hat. Ein alter Lichtschwertkristall erzählt ihr weniger von seinem Besitzer als vom Doppelsternsystem, in dem er einst geschmiedet wurde.
+Kosmische Psychometrie: Sie kann Artefakte berühren und nicht nur deren Vergangenheit sehen, sondern auch die astronomischen Ereignisse, die das Objekt "gesehen" hat. Ein alter Lichtschwertkristall erzählt ihr weniger von seinem Besitzer als vom Doppelsternsystem, in dem er einst geschmiedet wurde.
 
-    Lichtschwertkampf: Absolut mittelmäßig. Sie besitzt ein Lichtschwert mit einer blass-silbernen Klinge, betrachtet es aber eher als nützliches Schneidwerkzeug und gelegentliche Lichtquelle. Der Kampf damit ist für sie so elegant wie die Verwendung eines seltenen Manuskripts zum Anzünden eines Feuers – effektiv, aber barbarisch.
+Lichtschwertkampf: Absolut mittelmäßig. Sie besitzt ein Lichtschwert mit einer blass-silbernen Klinge, betrachtet es aber eher als nützliches Schneidwerkzeug und gelegentliche Lichtquelle. Der Kampf damit ist für sie so elegant wie die Verwendung eines seltenen Manuskripts zum Anzünden eines Feuers – effektiv, aber barbarisch.
 
 Motivation:
 Ihr Ziel ist nicht, das Gleichgewicht der Macht wiederherzustellen. Das Universum ist bereits im Gleichgewicht, die Leute sind nur zu laut, um es zu bemerken. Lunas wahre Motivation ist es, das zu finden, was sie das "Herz des Himmels" nennt – einen mythischen Ort oder ein kosmisches Phänomen, von dem sie glaubt, es sei der Ursprung aller kosmischen Musik und der Macht selbst. Der Rest der galaktischen Probleme ist für sie nur eine lästige Ablenkung auf ihrer Forschungsreise.
